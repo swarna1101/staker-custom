@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# staker-custom
-=======
-# staker-custom
-
-
+# Custom Staking Smart Contract
 
 This smart contract implements an upgradeable (UUPS Proxy pattern) staking contract, which can be set to dynamic/static by the deployer, where users can deposit their assets and earn rewards.
 
@@ -71,4 +66,3 @@ To deploy the contract, you will have to do the following
 Please note that if you would like to deploy smart contracts on a network other than Mumbai, you will have to change the configuration in the `hardhat.config.ts` and even update the `.env` variable names
 
 If you would like to deploy it locally, make sure to run `npx hardhat node` before the 3rd step, and deploy the smart contract with `localhost` as the "network name"
->>>>>>> 1cda47b (Initial commit)

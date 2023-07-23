@@ -304,7 +304,7 @@ import "./StaticStaking.t.sol";
 
 /**
  * @title EventsTest Contract
- * @author Nika Khachiashvili
+
  * @dev Test cases for Staking Contract Events
  */
 contract EventsTest is StaticStakingTest {

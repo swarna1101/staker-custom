@@ -6,7 +6,7 @@ import "./StaticStaking.t.sol";
 
 /**
  * @title PausableTest Contract
- * @author Nika Khachiashvili
+
  * @dev Test cases for Staking Contract Pausable Actions
  */
 contract PausableTest is StaticStakingTest {

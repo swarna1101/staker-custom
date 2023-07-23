@@ -9,7 +9,7 @@ import "../src/Token.sol";
 
 /**
  * @title AutoCompoundTest Contract
- * @author Nika Khachiashvili
+
  * @dev Test cases for AutoCompound feature
  */
 contract AutoCompoundTest is Test {
